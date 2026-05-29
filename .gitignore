@@ -1,0 +1,5 @@
+output/
+models/checkpoints/
+models/diffusion_models/
+models/text_encoders/
+models/vae/
